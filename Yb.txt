@@ -125,7 +125,7 @@ order by total_reviews desc
 |         10871 | Henderson       |
 |         10504 | Tempe           |
 |          9798 | Pittsburgh      |
-|          9448 | MontrÃ©al        |
+|          9448 | MontrÃƒÂ©al        |
 |          8112 | Chandler        |
 |          6875 | Mesa            |
 |          6380 | Gilbert         |
@@ -158,7 +158,7 @@ where city='Avon'
 group by stars
 
 
-Copy and Paste the Resulting Table Below (2 columns – star rating and count):
+Copy and Paste the Resulting Table Below (2 columns â€“ star rating and count):
 
 +-------------+-------+
 | star_rating | count |
@@ -180,7 +180,7 @@ from business
 where city='Beachwood'
 group by stars
 
-Copy and Paste the Resulting Table Below (2 columns – star rating and count):
+Copy and Paste the Resulting Table Below (2 columns â€“ star rating and count):
 
 +-------------+-------+
 | star_rating | count |
@@ -291,7 +291,7 @@ LIMIT 10
 +-----------+------+
 	
 	
-11. Is there a strong relationship (or correlation) between having a high number of fans and being listed as "useful" or "funny?" Out of the top 10 users with the highest number of fans, what percent are also listed as “useful” or “funny”?
+11. Is there a strong relationship (or correlation) between having a high number of fans and being listed as "useful" or "funny?" Out of the top 10 users with the highest number of fans, what percent are also listed as â€œusefulâ€ or â€œfunnyâ€?
 
 Key:
 0% - 25% - Low relationship
